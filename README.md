@@ -6,12 +6,6 @@
 
 ## Descriptif :
 
-## Pré-requis :
-
-Il vous faudra tout d'abord installer :
-
-- Installation de `git` -> [Cliquer ici](https://git-scm.com/downloads).
-
 ## Installation du projet :
 
 - Se rendre dans le dossier de votre choix.
@@ -35,12 +29,6 @@ L'application se lancera automatiquement sur votre navigateur internet par défa
 <img width="30px" src="https://citusmigrate.fpt-software.jp/wp-content/themes/citusmigrate/imgs/United-Kingdom-flag-icon.png">
 
 ## Description :
-
-## Required :
-
-First of all you need to install 2 tools :
-
-- Installation of `git` -> [Click here](https://git-scm.com/downloads)
 
 ## Installation of the projet :
 
