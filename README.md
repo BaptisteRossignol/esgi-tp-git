@@ -20,7 +20,7 @@ Ouvrez un terminal dans le dossier cloner puis éxécuter la commande : ``. Une 
 
 ## Votre projet est prêt !
 
-Dans le même terminal, il vous suffit d'éxécuter la commande : ``.
+Dans le même terminal, il vous suffit d'éxécuter la commande : `docker-compose up`.
 L'application se lancera automatiquement sur votre navigateur internet par défaut.
 
 =======
@@ -40,7 +40,7 @@ The project is now install in the folder.
 
 ## Dependences :
 
-Always in the same terminal, please run this command : ``. An installation will start
+Always in the same terminal, please run this command : `docker-compose up`. An installation will start
 
 ## Your project is ready !
 
