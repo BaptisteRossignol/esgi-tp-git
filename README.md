@@ -2,10 +2,6 @@
 
 </br>
 
-<img width="30px" src="http://files.softicons.com/download/internet-cons/flag-icons-by-custom-icon-design/ico/France-Flag.ico">
-
-## Descriptif :
-
 ## Installation du projet :
 
 - Se rendre dans le dossier de votre choix.
@@ -16,19 +12,15 @@ Le projet est maintenant installer dans le dossier.
 
 ## Dépendences :
 
-Ouvrez un terminal dans le dossier cloner puis éxécuter la commande : ``. Une installation va dès lors démarrer.
+Dans le même terminal, il vous suffit d'éxécuter la commande : `docker-compose up`.
 
 ## Votre projet est prêt !
 
-Dans le même terminal, il vous suffit d'éxécuter la commande : `docker-compose up`.
-L'application se lancera automatiquement sur votre navigateur internet par défaut.
 
-=======
+Site : 127.0.0.1
+<br>
+PhpMyAdmin : 127.0.0.1:8080
 </br>
-</br>
-<img width="30px" src="https://citusmigrate.fpt-software.jp/wp-content/themes/citusmigrate/imgs/United-Kingdom-flag-icon.png">
-
-## Description :
 
 ## Installation of the projet :
 
@@ -44,5 +36,7 @@ Always in the same terminal, please run this command : `docker-compose up`. An i
 
 ## Your project is ready !
 
-In the same terminal, please run this command : ``.
-The application will automatically launch on your default internet browser
+Site : 127.0.0.1
+<br>
+PhpMyAdmin : 127.0.0.1:8080
+</br>
